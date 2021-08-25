@@ -1,0 +1,1 @@
+https://187a7n5rz8.execute-api.us-west-2.amazonaws.com/default/jankenpo
